@@ -2,9 +2,9 @@
 using namespace std;
 
 /*
- *  Best Case: O(n*log n)
- *  Worst Case: O(n*log n)
- *  Avg Case: O(n*log n)
+ *  Best Case:  O(n*log n)      =>> Dãy được sắp xếp
+ *  Worst Case: O(n*log n)      =>> Dãy sắp xếp ngược
+ *  Avg Case:   O(n*log n)
 */
 
 //Merge 2 mảng con L và M vào mảng chính

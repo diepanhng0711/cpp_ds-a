@@ -1,6 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*
+ *  Best Case:  O(n*log n)      =>> Dãy được chia đều sau mỗi lần phân đoạn
+ *  Worst Case: O(n^2)          =>> Dãy bị chia thành 1 mảng gần = 0 và 1 mảng gần bằng n - 1 sau phân đoạn
+ *  Avg Case:   O(n*log n)
+*/
+
+
 //----------------------------------------------------------------
 // Thuật toán Quicksort (Lomuto)
 // O(n): nlogn
